@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd58a49b81ebeaa4f87602e22ad1b8b9, type: 3}
+  m_Name: Hald-Sword
+  m_EditorClassIdentifier: 
+  id: 35dd06bc5ff6f0f4a9b7f0881c656e18
+  ItemName: Half_Sword
+  Icon: {fileID: 21300000, guid: a4910fbe75cd4b14c82d45526ae4f58f, type: 3}
+  MaximumStacks: 1
+  StrengthBonus: 5
+  AgilityBonus: 0
+  IntelligenceBonus: 5
+  VitalityBonus: 0
+  StrengthPercentBonus: 0.1
+  AgilityPercentBonus: 0
+  IntelligencePercentBonus: 0
+  VitalityPercentBonus: 0
+  EquipmentType: 2
+  isWeaponHand: 1
+  isShield: 0
+  isDual: 0

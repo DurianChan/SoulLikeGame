@@ -1,0 +1,26 @@
+{
+    "Knife_Zero": {
+        "ATK": 10,
+        "DEF": 5
+    },
+    "Sword_Zero": {
+        "ATK": 15,
+        "DEF": 8
+    },
+    "NailHammer_Zero": {
+        "ATK": 15,
+        "DEF": 3
+    },
+    "Greatsword_Zero": {
+        "ATK": 20,
+        "DEF": 10
+    },
+    "LargeAxe_Zero": {
+        "ATK": 24,
+        "DEF": 8
+    },
+    "Shield_Zero": {
+        "ATK": 8,
+        "DEF": 15
+    }
+}
